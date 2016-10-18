@@ -1,0 +1,19 @@
+{
+  "name": "angular-development-enviroment",
+  "version": "1.0.0",
+  "description": "skeleton project structure/template for angular development enivroment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHedgepeth/angular-development-enviroment.git"
+  },
+  "author": "zachary hedgepeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZHedgepeth/angular-development-enviroment/issues"
+  },
+  "homepage": "https://github.com/ZHedgepeth/angular-development-enviroment#readme"
+}
