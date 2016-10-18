@@ -1,0 +1,19 @@
+{
+  "name": "angular2-skeleton",
+  "description": "skeleton structure for an angular development enviroment",
+  "main": "",
+  "authors": [
+    "zach",
+    "meredith",
+    "and lisa"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
